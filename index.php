@@ -189,7 +189,7 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Rural Rising PH</h2>
-                                    <p class="item-intro text-muted"><a href="ruralrisingph.com">Rural Rising PH</a> / <a href="shop.ruralrisingph.com">RRPH Shop</a></p>
+                                    <p class="item-intro text-muted"><a href="ruralrisingph.com" target="_blank">Rural Rising PH</a> / <a href="shop.ruralrisingph.com" target="_blank">RRPH Shop</a></p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/rrph.png" alt="..." />
                                     <p>A project that focused on helping marginalized and distressed farmers to export and sell their produce in times of the pandemic and calamity. I've done most of the development here using Wordpress, Woocommerce and Divi.</p>
                                     <ul class="list-inline">
@@ -259,7 +259,7 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Rock Maple Corporation</h2>
-                                    <p class="item-intro text-muted"><a href="https://rockmaple-webby.herokuapp.com/">Sample Website</a></p>
+                                    <p class="item-intro text-muted"><a href="https://rockmaple-webby.herokuapp.com/" target="_blank">Sample Website</a></p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/rmc.png" alt="..." />
                                     <p>A demo website that was intended to serve as the landing website for their customers. It was an exam for the job position I was offered.</p>
                                     <ul class="list-inline">
@@ -294,7 +294,7 @@
                                 <div class="modal-body">
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">The Work-From-Home Initiative</h2>
-                                    <p class="item-intro text-muted">wfhinitiative.com (the website was no longer working, I assumed that maybe the company no longer needed it, so here's the <a href="https://www.facebook.com/twfhi">Facebook page</a>)</p>
+                                    <p class="item-intro text-muted">wfhinitiative.com (the website was no longer working, I assumed that maybe the company no longer needed it, so here's the <a href="https://www.facebook.com/twfhi" target="_blank">Facebook page</a>)</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/wfhi.png" alt="..." />
                                     <p>A project that served as a week-long seminar that offers knowledge regarding the jobs that can be taken in during the pandemic, it also serves as a archive right now of all the speakers' presentation of their topics.</p>
                                     <ul class="list-inline">
